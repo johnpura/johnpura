@@ -1,0 +1,15 @@
+{
+    "name": "johnpura/site_package",
+    "description": "Base bootstrap sitepackege for TYPO3 10.4",
+    "type": "typo3-cms-extension",
+    "require": {
+        "typo3/cms": "^10.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Pura",
+            "email": "john.pura@comcast.net"
+        }
+    ]
+}
